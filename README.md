@@ -1,6 +1,6 @@
 # ivory-vue
 
-![Ivory](./IvoryApp/src/common/image/logo.png)
+<img src="./IvoryApp/src/common/image/logo.png" width="128" style="max-width:100%;">
 
 Yet another pure and fresh education management system.
 
@@ -8,6 +8,7 @@ Yet another pure and fresh education management system.
 
 - **vue**
 - vue-router
+- [muse-ui](https://github.com/museui/muse-ui)
 - vue-cli with PWA support
   - webpack
   - express
