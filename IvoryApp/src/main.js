@@ -5,7 +5,7 @@ import App from './App'
 import MuseUI from 'muse-ui'
 import 'muse-ui/dist/muse-ui.css'
 import 'muse-ui/dist/theme-light.css'
-// import router from './router'
+import router from './router'
 
 Vue.config.productionTip = false
 
@@ -14,6 +14,6 @@ Vue.use(MuseUI)
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
-  // router,
+  router,
   render: h => h(App)
 })
